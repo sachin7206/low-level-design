@@ -11,7 +11,7 @@
 
 
 ## Implementations
-#### [Java Implementation](../solutions/tictactoe/tictactoe)
+#### [Java Implementation](https://github.com/sachin7206/low-level-design/tree/main/Solutions/tictactoe/tictactoe)
 
 ## Classes, Interfaces and Enumerations
 1. The **Player** class represents a player in the game, with a name and a symbol (X or O).

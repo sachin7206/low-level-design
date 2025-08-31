@@ -9,12 +9,9 @@
 6. The game should handle player turns and validate moves to ensure they are legal.
 7. The game should detect and announce the winner or a draw at the end of the game.
 
-## UML Class Diagram
-
-![](../class-diagrams/tictactoe-class-diagram.png)
 
 ## Implementations
-#### [Java Implementation](../solutions/java/src/tictactoe/tictactoe)
+#### [Java Implementation](../solutions/tictactoe/tictactoe)
 
 ## Classes, Interfaces and Enumerations
 1. The **Player** class represents a player in the game, with a name and a symbol (X or O).

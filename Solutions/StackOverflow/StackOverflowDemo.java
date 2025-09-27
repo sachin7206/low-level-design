@@ -64,7 +64,6 @@ public class StackOverflowDemo {
                 new TagSearchStrategy(designPatternsTag),
                 new KeywordSearchStrategy("Singleton Design Pattern"),
                 new UserSearchStrategy(sachin)
-
         );
         List<Question> foundQuestions = stackOverflow.searchQuestionByQuery(strategies);
     }

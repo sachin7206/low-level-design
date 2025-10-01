@@ -5,7 +5,7 @@ import enums.TrafficMovingDirection;
 import state.State;
 import strategy.TimingStrategy;
 
-public class TrafficSignal {
+public class TrafficSignal  {
     private final TrafficMovingDirection trafficMovingDirection;
     private State state;
     private final TimingStrategy timingStrategy;
